@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="" height="100"/>
+  <img src="https://github.com/SALT-Lab-Human-AI/.github/blob/main/imgs/Salt.JPG" height="100"/>
   <div>&nbsp;</div>
   <div align="center">
     <b><font size="5">SALT Lab website</font></b>
